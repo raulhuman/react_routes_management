@@ -1,4 +1,6 @@
+<div align="center">
 ![alt text](./public/5dbc0ad1f0ea4f1ea927ff4b8670f804.png)
+</div>
 
 ## App to manage Routes
 
