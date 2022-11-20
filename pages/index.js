@@ -1,12 +1,11 @@
-import Footer from "./margins/footer";
-import Header from "./margins/header";
+import Footer from "./components/footer";
+import Header from "./components/header";
+import Layout from "./components/layout";
 
 export default function Home() {
   return (
       <div>
-      <Header />
-        <h1>Hello!</h1>
-      <Footer />
+        <div>Hello world!</div>
       </div>
   )
 }
