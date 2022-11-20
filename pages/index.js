@@ -1,11 +1,9 @@
-import Footer from "./components/footer";
-import Header from "./components/header";
-import Layout from "./components/layout";
+import Map from "./categories/Map";
 
 export default function Home() {
   return (
       <div>
-        <div>Hello world!</div>
+        <Map />
       </div>
   )
 }
