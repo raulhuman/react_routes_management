@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./public/96d5eba7a2ce48db81ea2bb59a55bd05.png" alt="logo"/>
+    <img src="./public/logo.png" alt="logo"/>
 </div>
 
 ## App to manage Routes
