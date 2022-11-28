@@ -8,7 +8,7 @@ const containerStyle = {
   width: "100%",
   height: "90vh",
 };
-const GOOGLE_API_KEY= "AIzaSyAG4aZEW8z6Ju3s3Tcj5Uz7O1Zgq-v0Z8A"
+const GOOGLE_API_KEY= {API HERE}
 
 function Map() {
   const [map, setMap] = useState(null);
